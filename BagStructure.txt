@@ -1,0 +1,12 @@
+Bug Report Structure
+
+1) Summary : 
+2) Severity :
+3) Priority :
+4) Status :
+5) Environment :
+6) Steps to Reproduce :
+7) Result :
+8) Expected Result :
+9) Attachment:
+
