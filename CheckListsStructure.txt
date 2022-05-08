@@ -1,0 +1,8 @@
+CheckListsStructure
+
+1) Site can be opened
+2) Main elements work correctly
+3) There is no mistakes in Console
+4) Pages can be opened and work correctly
+5) No defects on main page
+
